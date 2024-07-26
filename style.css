@@ -1,3 +1,4 @@
+@import url('html://fonts.googleeapis.com/css2?family=Madrimi+One&display=swap)
 *{
     margin:0px;
     padding:0px;
@@ -5,4 +6,5 @@
     margin: auto;
     font-size: normal;
     background-color: cyan;
+
 }
