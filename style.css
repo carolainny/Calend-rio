@@ -1,8 +1,9 @@
-@import url('html://fonts.googleeapis.com/css2?family=Madrimi+One&display=swap)
- *{
+@import url('html://fonts.googleeapis.com/css2?family=Madrimi+One&display=swap');
+ 
+*{
     margin:0px;
     padding:0px;
-    font-family: "madini one";sans-serif;
+    font-family: 'madini one','sans-serif';
     margin: auto;
     font-size: normal;
     background-color: rgb(0, 255, 255);
