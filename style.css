@@ -6,16 +6,73 @@
     font-family: 'madini one','sans-serif';
     margin: auto;
     font-size: normal;
-    background-color: rgb(0, 255, 255);
+    background-color: rgb(187, 222, 151);
 }
+
 h1{
     font-size: 5vmax;
+
 }
+
 .container {
     display: flex;
     flex-direction: column;
 }
+
 .content-info{
     display: grid;
     grid-template-columns: 200px 200px 200px 200px;
+}
+
+.meses{
+    text-align: center;
+    margin: 10px;
+    font-size: 50px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0px 0px 0px 2px black;
+}
+
+.mes-jan{
+    background-color: pink;
+}
+
+.mes-fev{
+    background-color: orange;
+}
+
+.mes-mar{
+    background-color: white;
+}
+.mes-abr{
+    background-color: red;
+}
+.mes-mai{
+    background-color: blue;
+}
+.mes-jun{
+    background-color: purple;
+}
+.mes-jul{
+    background-color: green;
+}
+.mes-ago{
+    background-color: yellow;
+}
+.mes-set{
+    background-color: gray;
+}
+.mes-out{
+    background-color: orangered;
+}
+.mes-nov{
+    background-color: yellowgreen;
+}
+.mes-dez{
+    background-color: brown;
+}
+a{
+    text-decoration: none;
+    color:  black;
+    background-color: pink;
 }
